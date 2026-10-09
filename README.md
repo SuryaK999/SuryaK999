@@ -12,8 +12,9 @@ I build web experiences and desktop tools that make everyday tasks simpler—fro
 
 ## Tools in my projects
 
-**Web** — TypeScript · Svelte · SvelteKit · Tailwind CSS  
-**Desktop** — Tauri · Rust · Python · CustomTkinter
+**Frontend** — Vanilla JavaScript · React · Svelte · Vanilla/Tailwind CSS · HTML5  
+**Backend** - Node.js ·Express.js
+**Desktop** — Tauri · Electron.js · CustomTkinter 
 
 ## Selected projects
 
