@@ -6,9 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,50:1E1B4B,100:311042&height=180&section=header&text=Surya%20Prakash%20Kudupudi&fontSize=42&fontColor=38BDF8&animation=fadeIn&fontAlignY=38&desc=%E2%9A%A1%20Thoughtful%20interfaces.%20Useful%20tools.%20%E2%9A%A1&descAlignY=62&descSize=18" width="100%" alt="Surya Prakash Kudupudi Banner" />
 
-<a href="https://github.com/SuryaK999">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2400&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=880&height=95&lines=%E2%95%94%E2%95%90%E2%95%90+%5B+surya%40SuryaK999+%3A%3A+~/workspace/craft+%5D+%E2%95%90%E2%95%90%E2%95%97;%24+./build_experiences.sh+--target%3D%22Web+%26+Desktop%22;%E2%9C%94+Active+Shipments%3A+Nimbus+%E2%80%A2+Scribly+%E2%80%A2+Resumify+%F0%9F%9A%80" alt="Animated Terminal Typing SVG" />
-</a>
+
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                  DYNAMIC PROFILE & SOCIAL CONNECTION BADGES                -->
